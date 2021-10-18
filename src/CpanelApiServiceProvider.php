@@ -3,7 +3,7 @@
 namespace staffkojinpro;
 
 use Illuminate\Support\ServiceProvider;
-use victorapi\cPanel;
+use staffkojinpro\cPanel;
 
 class CpanelApiServiceProvider extends ServiceProvider
 {
