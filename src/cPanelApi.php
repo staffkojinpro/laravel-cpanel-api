@@ -1,6 +1,6 @@
 <?php
 
-namespace victorapi;
+namespace staffkojinpro;
 
 class cPanelApi {
 
