@@ -1,6 +1,6 @@
 <?php
 
-namespace victorapi;
+namespace staffkojinpro;
 
 use Illuminate\Support\ServiceProvider;
 use victorapi\cPanel;
