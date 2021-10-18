@@ -1,0 +1,22 @@
+{
+    "name": "staffkojinpro/laravel-cpanel-api",
+    "description": "Cpanel Api Integration with laravel 8",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "staffkojinpro\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "staffkojinpro\\CpanelApiServiceProvider"
+            ]
+        }
+    }
+}
